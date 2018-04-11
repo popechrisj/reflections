@@ -34,6 +34,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    The diagrams illustrate how branches relate to 
+	one another and how changes made to each branch 
+	are seen (or not seen) by other branches. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
