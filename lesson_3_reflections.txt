@@ -47,4 +47,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When several people are working on a project having 
+	multiple branches allows work to be done at the same 
+	time without the danger of bugs being introduced to 
+	everyone's code. Changes to master can be a better 
+	approach when working alone with commits occuring 
+	after each new bug free feature. 
