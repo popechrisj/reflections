@@ -37,7 +37,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Using google docs so that the changes could be made 
+	by multiple people. I would also be able to see who 
+	made which changes. The drawback would be that people 
+	could work on the same parts of the code and mess up 
+	the other person's work. This solution also would 
+	allow more bugs to occure in the code. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
